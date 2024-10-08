@@ -75,8 +75,8 @@ p{/*Descrição com nome dos Carros*/
 }
 .hover:hover{/*movimento das imagens*/
     top: -3px;
-    border-bottom: 2px solid #eee;
     padding-bottom: 2px;
+
 }
 footer{/*ronda pé*/
     height: 100px;
